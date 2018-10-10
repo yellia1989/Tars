@@ -1,30 +1,24 @@
-[submodule "nodejs/config"]
-	path = nodejs/config
-	url = https://github.com/tars-node/config.git
-[submodule "nodejs/dyeing"]
-	path = nodejs/dyeing
-	url = https://github.com/tars-node/dyeing.git
-[submodule "nodejs/logs"]
-	path = nodejs/logs
-	url = https://github.com/tars-node/logs.git
-[submodule "nodejs/monitor"]
-	path = nodejs/monitor
-	url = https://github.com/tars-node/monitor.git
-[submodule "nodejs/node-agent"]
-	path = nodejs/node-agent
-	url = https://github.com/tars-node/node-agent.git
-[submodule "nodejs/notify"]
-	path = nodejs/notify
-	url = https://github.com/tars-node/notify.git
-[submodule "nodejs/utils"]
-	path = nodejs/utils
-	url = https://github.com/tars-node/utils.git
-[submodule "nodejs/winston-tars"]
-	path = nodejs/winston-tars
-	url = https://github.com/tars-node/winston-tars.git
-[submodule "nodejs/deploy"]
-	path = nodejs/deploy
-	url = https://github.com/tars-node/deploy.git
-[submodule "nodejs/registry"]
-	path = nodejs/registry
-	url = https://github.com/tars-node/registry.git
+[submodule "framework"]
+	path = framework
+	url = https://github.com/TarsCloud/TarsFramework
+[submodule "cpp"]
+	path = cpp
+	url = https://github.com/TarsCloud/TarsCpp
+[submodule "java"]
+	path = java
+	url = https://github.com/TarsCloud/TarsJava
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/tars-node/Tars.js
+[submodule "php"]
+	path = php
+	url = https://github.com/TarsPHP/TarsPHP
+[submodule "tup"]
+	path = tup
+	url = https://github.com/TarsCloud/TarsTup
+[submodule "web"]
+	path = web
+	url = https://github.com/TarsCloud/TarsWeb
+[submodule "go"]
+	path = go
+	url = https://github.com/TarsCloud/TarsGo
